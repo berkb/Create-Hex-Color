@@ -1,2 +1,2 @@
 # Create-Hex-Color
-randomhexcolor.netlify.com
+https://randomhexcolor.netlify.com
